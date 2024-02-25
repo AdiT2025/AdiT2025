@@ -13,7 +13,8 @@
 - 📫 How to reach me **www.linkedin.com/in/aditi-vanikar-b33a2422b**
 
 - 📄 Know about my experiences [https://pdf.ac/1hkQPw](https://pdf.ac/1hkQPw)
-
+  
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1lfsXjGu3gKOTBhOrWEYczmvcf5i02e5v/view?usp=drive_link](https://drive.google.com/file/d/1lfsXjGu3gKOTBhOrWEYczmvcf5i02e5v/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-vanikar-b33a2422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-vanikar-b33a2422b" height="30" width="40" /></a>
