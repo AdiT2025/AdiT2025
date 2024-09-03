@@ -4,6 +4,8 @@
 <h3 align="center">👀 Embedded Systems Explorer | Robotics Enthusiast | Flutter Developer |</h3>
 <img align="right" alt="coading" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
 
+- 👨‍💻 Intern at **Siemens Digital Industries Software**-DevOps DOT DTD (Intern)
+
 - 🌱 I’m currently **pursuing my bachelor's degree in Electronics and Telecommunication**
 
 - 🔭 I’m currently working on **ML-Enhanced Pipeline Flow Velocity Monitoring with 1C Acoustic Sensors**
@@ -14,7 +16,7 @@
 
 - 📄 Know about my experiences [https://pdf.ac/1hkQPw](https://pdf.ac/1hkQPw)
   
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1lfsXjGu3gKOTBhOrWEYczmvcf5i02e5v/view?usp=drive_link](https://drive.google.com/drive/folders/1wSErtbVBgO3Jm7bzCzGrQFvat1cP-d6s?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-vanikar-b33a2422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-vanikar-b33a2422b" height="30" width="40" /></a>
