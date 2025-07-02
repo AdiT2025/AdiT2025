@@ -1,14 +1,14 @@
 
 <img alt="cod"  src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif" >
 <h1 align="center">Hi 👋, I'm Aditi Vanikar</h1>
-<h3 align="center">👀 Embedded Systems Explorer | Robotics Enthusiast | Flutter Developer |</h3>
+<h3 align="center">👀 Software Engineer Intern @Siemens| Explorer | Robotics Enthusiast | Flutter Developer | PICT'25 </h3>
 <img align="right" alt="coading" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
 
-- 👨‍💻 Intern at **Siemens Digital Industries Software**-DevOps DOT DTD (Intern)
+- 👨‍💻 Intern at **Siemens Digital Industries Software**
 
-- 🌱 I’m currently **pursuing my bachelor's degree in Electronics and Telecommunication**
+- 🌱 **Bachelor's degree in Electronics and Telecommunication**
 
-- 🔭 I’m currently working on **ML-Enhanced Pipeline Flow Velocity Monitoring with 1C Acoustic Sensors**
+- 🔭 I’m currently working on **DevOps dashboard - developing pages and business logic for Permissions, Policies and Roles**
 
 - ⚡ My goal **is to leverage this diverse skill set to contribute meaningfully to the field and drive innovation forward.**
 
