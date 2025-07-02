@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://pdf.ac/1hkQPw](https://pdf.ac/1hkQPw)
 
-- ✨ Behind the Designs [https://pdf.ac/1hkQPw](https://drive.google.com/drive/folders/1wSErtbVBgO3Jm7bzCzGrQFvat1cP-d6s)
+- ✨ Behind the Designs [designs](https://drive.google.com/drive/folders/1wSErtbVBgO3Jm7bzCzGrQFvat1cP-d6s)
   
 
 <h3 align="left">Connect with me:</h3>
